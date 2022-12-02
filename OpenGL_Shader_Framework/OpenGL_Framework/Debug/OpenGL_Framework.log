@@ -1,0 +1,223 @@
+﻿  pch.cpp
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\pch.h(29,1): warning C4005: 'WIN32_LEAN_AND_MEAN': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\gl\freeglut_std.h(58): message : 'WIN32_LEAN_AND_MEAN'의 이전 정의를 참조하십시오.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Define.h(51,1): warning C4005: 'DECLARE_SINGLETON': 매크로 재정의
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Define.h(32): message : 'DECLARE_SINGLETON'의 이전 정의를 참조하십시오.
+  Bomb.cpp
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(32,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Bomb.cpp(18): message : 컴파일되는 함수 템플릿 인스턴스화 'bool loadObj<const char*,OBJECT,glm::vec3>(T1,T2 &,T3)'에 대한 참조를 확인하세요.
+          with
+          [
+              T1=const char *,
+              T2=OBJECT,
+              T3=glm::vec3
+          ]
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(41,13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(46,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(51,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(56,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(62,18): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Bomb_Effect.cpp
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Bomb_Effect.cpp(12,43): warning C4244: '=': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Bomb_Effect.cpp(13,43): warning C4244: '=': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Bomb_Effect.cpp(14,43): warning C4244: '=': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+  BossMonster.cpp
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(32,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\BossMonster.cpp(21): message : 컴파일되는 함수 템플릿 인스턴스화 'bool loadObj<const char*,OBJECT,glm::vec3>(T1,T2 &,T3)'에 대한 참조를 확인하세요.
+          with
+          [
+              T1=const char *,
+              T2=OBJECT,
+              T3=glm::vec3
+          ]
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(41,13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(46,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(51,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(56,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(62,18): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Boss_head.cpp
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(32,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Boss_head.cpp(17): message : 컴파일되는 함수 템플릿 인스턴스화 'bool loadObj<const char*,OBJECT,glm::vec3>(T1,T2 &,T3)'에 대한 참조를 확인하세요.
+          with
+          [
+              T1=const char *,
+              T2=OBJECT,
+              T3=glm::vec3
+          ]
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(41,13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(46,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(51,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(56,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(62,18): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CollisionMgr.cpp
+  FrameMgr.cpp
+  Gate.cpp
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(32,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Gate.cpp(17): message : 컴파일되는 함수 템플릿 인스턴스화 'bool loadObj<const char*,OBJECT,glm::vec3>(T1,T2 &,T3)'에 대한 참조를 확인하세요.
+          with
+          [
+              T1=const char *,
+              T2=OBJECT,
+              T3=glm::vec3
+          ]
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(41,13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(46,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(51,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(56,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(62,18): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  KeyMgr.cpp
+  MainGame.cpp
+  Map.cpp
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(32,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Map.cpp(20): message : 컴파일되는 함수 템플릿 인스턴스화 'bool loadObj<const char*,OBJECT,glm::vec3>(T1,T2 &,T3)'에 대한 참조를 확인하세요.
+          with
+          [
+              T1=const char *,
+              T2=OBJECT,
+              T3=glm::vec3
+          ]
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(41,13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(46,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(51,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(56,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(62,18): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MonsterBullet.cpp
+  NormalMonster.cpp
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(32,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\NormalMonster.cpp(24): message : 컴파일되는 함수 템플릿 인스턴스화 'bool loadObj<const char*,OBJECT,glm::vec3>(T1,T2 &,T3)'에 대한 참조를 확인하세요.
+          with
+          [
+              T1=const char *,
+              T2=OBJECT,
+              T3=glm::vec3
+          ]
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(41,13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(46,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(51,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(56,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(62,18): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Obj.cpp
+  ObjMgr.cpp
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(32,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\ObjMgr.cpp(90): message : 컴파일되는 함수 템플릿 인스턴스화 'bool loadObj<const char*,OBJECT,glm::vec3>(T1,T2 &,T3)'에 대한 참조를 확인하세요.
+          with
+          [
+              T1=const char *,
+              T2=OBJECT,
+              T3=glm::vec3
+          ]
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(41,13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(46,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(51,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(56,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(62,18): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  OpenGL_Framework.cpp
+  Player.cpp
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(32,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Player.cpp(22): message : 컴파일되는 함수 템플릿 인스턴스화 'bool loadObj<const char*,OBJECT,glm::vec3>(T1,T2 &,T3)'에 대한 참조를 확인하세요.
+          with
+          [
+              T1=const char *,
+              T2=OBJECT,
+              T3=glm::vec3
+          ]
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(41,13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(46,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(51,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(56,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(62,18): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Player_Bullet.cpp
+  Player_front.cpp
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(32,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Player_front.cpp(17): message : 컴파일되는 함수 템플릿 인스턴스화 'bool loadObj<const char*,OBJECT,glm::vec3>(T1,T2 &,T3)'에 대한 참조를 확인하세요.
+          with
+          [
+              T1=const char *,
+              T2=OBJECT,
+              T3=glm::vec3
+          ]
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(41,13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(46,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(51,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(56,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(62,18): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Shader.cpp
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(11,9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Shader.cpp(29): message : 컴파일되는 함수 템플릿 인스턴스화 'char *filetobuf<const char[12]>(T (&))'에 대한 참조를 확인하세요.
+          with
+          [
+              T=const char [12]
+          ]
+  ShiledMonster.cpp
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(32,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\ShiledMonster.cpp(21): message : 컴파일되는 함수 템플릿 인스턴스화 'bool loadObj<const char*,OBJECT,glm::vec3>(T1,T2 &,T3)'에 대한 참조를 확인하세요.
+          with
+          [
+              T1=const char *,
+              T2=OBJECT,
+              T3=glm::vec3
+          ]
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(41,13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(46,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(51,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(56,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(62,18): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(90): warning C4715: 'loadObj<char const *,Object,glm::vec<3,float,0> >': 모든 제어 경로에서 값을 반환하지는 않습니다.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(90): warning C4715: 'loadObj<char const *,Object,glm::vec<3,float,0> >': 모든 제어 경로에서 값을 반환하지는 않습니다.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(90): warning C4715: 'loadObj<char const *,Object,glm::vec<3,float,0> >': 모든 제어 경로에서 값을 반환하지는 않습니다.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(90): warning C4715: 'loadObj<char const *,Object,glm::vec<3,float,0> >': 모든 제어 경로에서 값을 반환하지는 않습니다.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(90): warning C4715: 'loadObj<char const *,Object,glm::vec<3,float,0> >': 모든 제어 경로에서 값을 반환하지는 않습니다.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(90): warning C4715: 'loadObj<char const *,Object,glm::vec<3,float,0> >': 모든 제어 경로에서 값을 반환하지는 않습니다.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\ObjMgr.h(25): warning C4172: 지역 변수 또는 임시의 주소를 반환하고 있습니다.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(90): warning C4715: 'loadObj<char const *,Object,glm::vec<3,float,0> >': 모든 제어 경로에서 값을 반환하지는 않습니다.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(90): warning C4715: 'loadObj<char const *,Object,glm::vec<3,float,0> >': 모든 제어 경로에서 값을 반환하지는 않습니다.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(90): warning C4715: 'loadObj<char const *,Object,glm::vec<3,float,0> >': 모든 제어 경로에서 값을 반환하지는 않습니다.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(90): warning C4715: 'loadObj<char const *,Object,glm::vec<3,float,0> >': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  SoundMgr.cpp
+  SwirlMonster.cpp
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(32,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\SwirlMonster.cpp(24): message : 컴파일되는 함수 템플릿 인스턴스화 'bool loadObj<const char*,OBJECT,glm::vec3>(T1,T2 &,T3)'에 대한 참조를 확인하세요.
+          with
+          [
+              T1=const char *,
+              T2=OBJECT,
+              T3=glm::vec3
+          ]
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(41,13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(46,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(51,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(56,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(62,18): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  TimeMgr.cpp
+  TonadoMonster.cpp
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(32,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\TonadoMonster.cpp(29): message : 컴파일되는 함수 템플릿 인스턴스화 'bool loadObj<const char*,OBJECT,glm::vec3>(T1,T2 &,T3)'에 대한 참조를 확인하세요.
+          with
+          [
+              T1=const char *,
+              T2=OBJECT,
+              T3=glm::vec3
+          ]
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(41,13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(46,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(51,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(56,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(62,18): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(90): warning C4715: 'loadObj<char const *,Object,glm::vec<3,float,0> >': 모든 제어 경로에서 값을 반환하지는 않습니다.
+D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\OpenGL_Framework\Function.h(90): warning C4715: 'loadObj<char const *,Object,glm::vec<3,float,0> >': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  OpenGL_Framework.vcxproj -> D:\Git\ddd\OpenGL\OpenGL_Shader_Framework\Debug\OpenGL_Framework.exe
